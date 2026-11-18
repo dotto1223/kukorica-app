@@ -10,7 +10,7 @@ a Táblatörténettel: ugyanazok a táblák látszanak mindkettőben, de itt
 A változat beállításai: `src/app/012-variant.js`. A más növényű évek adatai nem törlődnek.
 
 Telepítés után a Supabase-ben (Authentication → URL Configuration → Redirect URLs) fel kell venni
-az új címet (pl. `https://kukorica-app.pages.dev/**`), különben a regisztráció/jelszó-visszaállító
+az új címet (`https://kukorica-app.pages.dev/**`), különben a regisztráció/jelszó-visszaállító
 levél a Táblatörténetre visz vissza.
 
 ---
