@@ -1,0 +1,74 @@
+# hu | en | de | sr | hr | sl | sk | cs | pl | ro | uk
+Felosztás ebben az évben|Split in this year|Aufteilung in diesem Jahr|Podela u ovoj godini|Podjela u ovoj godini|Delitev v tem letu|Rozdelenie v tomto roku|Rozdělení v tomto roce|Podział w tym roku|Împărțire în acest an|Поділ у цьому році
+Felosztás vonallal|Split with a line|Mit Linie teilen|Podeli linijom|Podijeli linijom|Razdeli s črto|Rozdeliť čiarou|Rozdělit čarou|Podziel linią|Împarte cu o linie|Поділити лінією
+Rész hektárral|Part by hectares|Teil nach Hektar|Deo po hektarima|Dio po hektarima|Del po hektarjih|Časť podľa hektárov|Část podle hektarů|Część wg hektarów|Parte pe hectare|Частина за гектарами
+Felosztás megszüntetése|Remove split|Aufteilung aufheben|Ukini podelu|Ukini podjelu|Odstrani delitev|Zrušiť rozdelenie|Zrušit rozdělení|Usuń podział|Anulează împărțirea|Скасувати поділ
+Tovább osztás|Split further|Weiter teilen|Dalja podela|Daljnja podjela|Nadaljnja delitev|Ďalej rozdeliť|Dále rozdělit|Podziel dalej|Împarte mai departe|Ділити далі
+Egész tábla|Whole field|Ganzer Schlag|Cela parcela|Cijela parcela|Cela parcela|Celé pole|Celý pozemek|Całe pole|Toată parcela|Усе поле
+Rész|Part|Teil|Deo|Dio|Del|Časť|Část|Część|Parte|Частина
+Növény, vetés, aratás|Crop, sowing, harvest|Kultur, Aussaat, Ernte|Kultura, setva, žetva|Kultura, sjetva, žetva|Posevek, setev, žetev|Plodina, sejba, zber|Plodina, setí, sklizeň|Uprawa, siew, zbiór|Cultură, semănat, recoltare|Культура, сівба, збирання
+Növény|Crop|Kultur|Kultura|Kultura|Posevek|Plodina|Plodina|Uprawa|Cultură|Культура
+Hibrid / fajta|Hybrid / variety|Hybride / Sorte|Hibrid / sorta|Hibrid / sorta|Hibrid / sorta|Hybrid / odroda|Hybrid / odrůda|Mieszaniec / odmiana|Hibrid / soi|Гібрид / сорт
+Hibrid|Hybrid|Hybride|Hibrid|Hibrid|Hibrid|Hybrid|Hybrid|Mieszaniec|Hibrid|Гібрид
+Vetés dátuma|Sowing date|Aussaattermin|Datum setve|Datum sjetve|Datum setve|Dátum sejby|Datum setí|Data siewu|Data semănatului|Дата сівби
+Vetés|Sowing|Aussaat|Setva|Sjetva|Setev|Sejba|Setí|Siew|Semănat|Сівба
+Tőszám (mag/ha)|Seeding rate (seeds/ha)|Saatstärke (Körner/ha)|Gustina setve (zrna/ha)|Gustoća sjetve (zrna/ha)|Gostota setve (semen/ha)|Hustota sejby (zŕn/ha)|Výsevek (semen/ha)|Obsada (nasion/ha)|Densitate (boabe/ha)|Норма висіву (насінин/га)
+Tőszám|Seeding rate|Saatstärke|Gustina setve|Gustoća sjetve|Gostota setve|Hustota sejby|Výsevek|Obsada|Densitate|Норма висіву
+Aratás dátuma|Harvest date|Erntedatum|Datum žetve|Datum žetve|Datum žetve|Dátum zberu|Datum sklizně|Data zbioru|Data recoltării|Дата збирання
+Aratás|Harvest|Ernte|Žetva|Žetva|Žetev|Zber|Sklizeň|Zbiór|Recoltare|Збирання
+Aratási nedvesség (%)|Harvest moisture (%)|Erntefeuchte (%)|Vlaga pri žetvi (%)|Vlaga pri žetvi (%)|Vlaga ob žetvi (%)|Vlhkosť pri zbere (%)|Vlhkost při sklizni (%)|Wilgotność przy zbiorze (%)|Umiditate la recoltare (%)|Вологість при збиранні (%)
+Hozam (t/ha, betakarításkor)|Yield (t/ha, at harvest)|Ertrag (t/ha, bei Ernte)|Prinos (t/ha, pri žetvi)|Prinos (t/ha, pri žetvi)|Pridelek (t/ha, ob žetvi)|Úroda (t/ha, pri zbere)|Výnos (t/ha, při sklizni)|Plon (t/ha, przy zbiorze)|Producție (t/ha, la recoltare)|Урожайність (т/га, при збиранні)
+vagy összes tonna (mérlegjegy)|or total tonnes (weighbridge ticket)|oder Gesamttonnen (Wiegeschein)|ili ukupno tona (vaga)|ili ukupno tona (vaga)|ali skupaj ton (tehtnica)|alebo celkom ton (vážny lístok)|nebo celkem tun (vážní lístek)|lub łącznie ton (kwit wagowy)|sau total tone (bon de cântar)|або загалом тонн (ваговий талон)
+Hozamadat forrása|Yield data source|Quelle der Ertragsdaten|Izvor podatka o prinosu|Izvor podatka o prinosu|Vir podatka o pridelku|Zdroj údaja o úrode|Zdroj údaje o výnosu|Źródło danych o plonie|Sursa datelor de producție|Джерело даних про врожай
+– nincs megadva –|– not specified –|– nicht angegeben –|– nije navedeno –|– nije navedeno –|– ni navedeno –|– neuvedené –|– neuvedeno –|– nie podano –|– nespecificat –|– не вказано –
+nincs megadva|not specified|nicht angegeben|nije navedeno|nije navedeno|ni navedeno|neuvedené|neuvedeno|nie podano|nespecificat|не вказано
+Nincs megadva|Not specified|Nicht angegeben|Nije navedeno|Nije navedeno|Ni navedeno|Neuvedené|Neuvedeno|Nie podano|Nespecificat|Не вказано
+Mérlegjegy / átvételi bizonylat|Weighbridge ticket / delivery note|Wiegeschein / Annahmebeleg|Vagarska potvrda / prijemnica|Vagarska potvrda / primka|Tehtalni list / prevzemnica|Vážny lístok / príjemka|Vážní lístek / příjemka|Kwit wagowy / dowód dostawy|Bon de cântar / aviz de recepție|Ваговий талон / накладна
+Hozamtérkép (kalibrált)|Yield map (calibrated)|Ertragskarte (kalibriert)|Mapa prinosa (kalibrisana)|Karta prinosa (kalibrirana)|Karta pridelka (kalibrirana)|Mapa úrody (kalibrovaná)|Mapa výnosu (kalibrovaná)|Mapa plonu (skalibrowana)|Hartă de producție (calibrată)|Карта врожайності (калібрована)
+Napló / számla / nyilvántartás|Log / invoice / records|Tagebuch / Rechnung / Aufzeichnung|Dnevnik / račun / evidencija|Dnevnik / račun / evidencija|Dnevnik / račun / evidenca|Denník / faktúra / evidencia|Deník / faktura / evidence|Dziennik / faktura / ewidencja|Registru / factură / evidență|Журнал / рахунок / облік
+Gazda bemondása (emlékezetből)|Grower's statement (from memory)|Angabe des Landwirts (aus dem Gedächtnis)|Izjava proizvođača (po sećanju)|Izjava proizvođača (po sjećanju)|Izjava pridelovalca (po spominu)|Údaj pestovateľa (spamäti)|Údaj pěstitele (zpaměti)|Deklaracja rolnika (z pamięci)|Declarația fermierului (din memorie)|Слова виробника (з пам'яті)
+Becslés|Estimate|Schätzung|Procena|Procjena|Ocena|Odhad|Odhad|Szacunek|Estimare|Оцінка
+Megjegyzés (pl. jég, aszály, belvíz, vadkár)|Note (e.g. hail, drought, waterlogging, game damage)|Notiz (z. B. Hagel, Dürre, Staunässe, Wildschaden)|Napomena (npr. grad, suša, podzemne vode, šteta od divljači)|Napomena (npr. tuča, suša, poplava, šteta od divljači)|Opomba (npr. toča, suša, zastajanje vode, škoda od divjadi)|Poznámka (napr. krupobitie, sucho, zamokrenie, škody zverou)|Poznámka (např. kroupy, sucho, zamokření, škody zvěří)|Uwagi (np. grad, susza, podtopienie, szkody od zwierzyny)|Notă (ex. grindină, secetă, exces de apă, pagube vânat)|Примітка (напр. град, посуха, підтоплення, шкода від дичини)
+Részletek (FAO, szabvány-nedvesség, megbízhatóság)|Details (FAO, standard moisture, reliability)|Details (FAO, Standardfeuchte, Zuverlässigkeit)|Detalji (FAO, standardna vlaga, pouzdanost)|Detalji (FAO, standardna vlaga, pouzdanost)|Podrobnosti (FAO, standardna vlaga, zanesljivost)|Podrobnosti (FAO, štandardná vlhkosť, spoľahlivosť)|Podrobnosti (FAO, standardní vlhkost, spolehlivost)|Szczegóły (FAO, wilgotność standardowa, wiarygodność)|Detalii (FAO, umiditate standard, fiabilitate)|Деталі (FAO, стандартна вологість, надійність)
+FAO-szám|FAO number|FAO-Zahl|FAO broj|FAO broj|FAO število|FAO číslo|FAO číslo|Liczba FAO|Număr FAO|Число FAO
+Szabvány-nedvesség (%)|Standard moisture (%)|Standardfeuchte (%)|Standardna vlaga (%)|Standardna vlaga (%)|Standardna vlaga (%)|Štandardná vlhkosť (%)|Standardní vlhkost (%)|Wilgotność standardowa (%)|Umiditate standard (%)|Стандартна вологість (%)
+{#} (alap)|{#} (default)|{#} (Standard)|{#} (podrazumevano)|{#} (zadano)|{#} (privzeto)|{#} (predvolené)|{#} (výchozí)|{#} (domyślnie)|{#} (implicit)|{#} (типово)
+Megbízhatóság|Reliability|Zuverlässigkeit|Pouzdanost|Pouzdanost|Zanesljivost|Spoľahlivosť|Spolehlivost|Wiarygodność|Fiabilitate|Надійність
+A hozamhoz adja meg a t/ha-t vagy az összes tonnát.|For the yield, enter t/ha or the total tonnes.|Für den Ertrag t/ha oder die Gesamttonnen angeben.|Za prinos unesite t/ha ili ukupne tone.|Za prinos unesite t/ha ili ukupne tone.|Za pridelek vnesite t/ha ali skupne tone.|Pre úrodu zadajte t/ha alebo celkové tony.|Pro výnos zadejte t/ha nebo celkové tuny.|Dla plonu podaj t/ha lub łączną liczbę ton.|Pentru producție introduceți t/ha sau totalul în tone.|Для врожаю вкажіть т/га або загальні тонни.
+Hozam szabvány nedvességen ({#}%)|Yield at standard moisture ({#}%)|Ertrag bei Standardfeuchte ({#}%)|Prinos na standardnoj vlazi ({#}%)|Prinos na standardnoj vlazi ({#}%)|Pridelek pri standardni vlagi ({#}%)|Úroda pri štandardnej vlhkosti ({#}%)|Výnos při standardní vlhkosti ({#}%)|Plon przy wilgotności standardowej ({#}%)|Producție la umiditate standard ({#}%)|Урожай за стандартної вологості ({#}%)
+Műveletek {#}|Operations {#}|Maßnahmen {#}|Radnje {#}|Radnje {#}|Opravila {#}|Operácie {#}|Operace {#}|Zabiegi {#}|Lucrări {#}|Операції {#}
+Talajművelés|Tillage|Bodenbearbeitung|Obrada zemljišta|Obrada tla|Obdelava tal|Spracovanie pôdy|Zpracování půdy|Uprawa gleby|Lucrările solului|Обробіток ґрунту
+Tápanyag-utánpótlás|Fertilisation|Düngung|Đubrenje|Gnojidba|Gnojenje|Hnojenie|Hnojení|Nawożenie|Fertilizare|Удобрення
+Növényvédelem|Crop protection|Pflanzenschutz|Zaštita bilja|Zaštita bilja|Varstvo rastlin|Ochrana rastlín|Ochrana rostlin|Ochrona roślin|Protecția plantelor|Захист рослин
+Öntözés|Irrigation|Bewässerung|Navodnjavanje|Navodnjavanje|Namakanje|Zavlažovanie|Zavlažování|Nawadnianie|Irigare|Зрошення
+Egyéb|Other|Sonstiges|Ostalo|Ostalo|Drugo|Iné|Jiné|Inne|Altele|Інше
+Még nincs rögzített művelet ebben az évben.|No operations recorded for this year yet.|Für dieses Jahr noch keine Maßnahmen erfasst.|Još nema unetih radnji za ovu godinu.|Još nema unesenih radnji za ovu godinu.|Za to leto še ni vnesenih opravil.|Pre tento rok zatiaľ nie sú zaznamenané operácie.|Pro tento rok zatím nejsou zaznamenány operace.|Brak zabiegów w tym roku.|Încă nu există lucrări înregistrate pentru acest an.|Операцій за цей рік ще немає.
+pl. Kukorica|e.g. Maize|z. B. Mais|npr. Kukuruz|npr. Kukuruz|npr. Koruza|napr. Kukurica|např. Kukuřice|np. Kukurydza|ex. Porumb|напр. Кукурудза
+pl. {#}|e.g. {#}|z. B. {#}|npr. {#}|npr. {#}|npr. {#}|napr. {#}|např. {#}|np. {#}|ex. {#}|напр. {#}
+pl. DKC {#}|e.g. DKC {#}|z. B. DKC {#}|npr. DKC {#}|npr. DKC {#}|npr. DKC {#}|napr. DKC {#}|např. DKC {#}|np. DKC {#}|ex. DKC {#}|напр. DKC {#}
+Kukorica|Maize|Mais|Kukuruz|Kukuruz|Koruza|Kukurica|Kukuřice|Kukurydza|Porumb|Кукурудза
+Napraforgó|Sunflower|Sonnenblume|Suncokret|Suncokret|Sončnica|Slnečnica|Slunečnice|Słonecznik|Floarea-soarelui|Соняшник
+Őszi búza|Winter wheat|Winterweizen|Ozima pšenica|Ozima pšenica|Ozimna pšenica|Ozimná pšenica|Ozimá pšenice|Pszenica ozima|Grâu de toamnă|Озима пшениця
+Őszi árpa|Winter barley|Wintergerste|Ozimi ječam|Ozimi ječam|Ozimni ječmen|Ozimný jačmeň|Ozimý ječmen|Jęczmień ozimy|Orz de toamnă|Озимий ячмінь
+Tavaszi árpa|Spring barley|Sommergerste|Jari ječam|Jari ječam|Jari ječmen|Jarný jačmeň|Jarní ječmen|Jęczmień jary|Orz de primăvară|Ярий ячмінь
+Őszi káposztarepce|Winter oilseed rape|Winterraps|Ozima uljana repica|Ozima uljana repica|Ozimna oljna ogrščica|Ozimná repka olejná|Ozimá řepka olejka|Rzepak ozimy|Rapiță de toamnă|Озимий ріпак
+Szója|Soybean|Sojabohne|Soja|Soja|Soja|Sója|Sója|Soja|Soia|Соя
+Tritikálé|Triticale|Triticale|Tritikale|Tritikale|Tritikala|Tritikale|Tritikale|Pszenżyto|Triticale|Тритикале
+Rozs|Rye|Roggen|Raž|Raž|Rž|Raž|Žito|Żyto|Secară|Жито
+Zab|Oats|Hafer|Ovas|Zob|Oves|Ovos|Oves|Owies|Ovăz|Овес
+Borsó|Pea|Erbse|Grašak|Grašak|Grah|Hrach|Hrách|Groch|Mazăre|Горох
+Cirok|Sorghum|Sorghum|Sirak|Sirak|Sirek|Cirok|Čirok|Sorgo|Sorg|Сорго
+Lucerna|Alfalfa|Luzerne|Lucerka|Lucerna|Lucerna|Lucerna|Vojtěška|Lucerna|Lucernă|Люцерна
+Csemegekukorica|Sweet corn|Zuckermais|Kukuruz šećerac|Kukuruz šećerac|Sladka koruza|Cukrová kukurica|Cukrová kukuřice|Kukurydza cukrowa|Porumb dulce|Цукрова кукурудза
+Silókukorica|Silage maize|Silomais|Silažni kukuruz|Silažni kukuruz|Silažna koruza|Silážna kukurica|Silážní kukuřice|Kukurydza na kiszonkę|Porumb siloz|Кукурудза на силос
+Ugar|Fallow|Brache|Ugar|Ugar|Praha|Úhor|Úhor|Ugór|Pârloagă|Пар
+Tarlóhántás|Stubble cultivation|Stoppelbearbeitung|Ljuštenje strništa|Prašenje strništa|Podor strnišča|Podmietka|Podmítka|Podorywka|Dezmiriștire|Лущення стерні
+Szántás|Ploughing|Pflügen|Oranje|Oranje|Oranje|Orba|Orba|Orka|Arătură|Оранка
+Tárcsázás|Disking|Scheibeneggen|Tanjiranje|Tanjuranje|Brananje s krožno brano|Diskovanie|Diskování|Talerzowanie|Discuire|Дискування
+Kultivátorozás|Cultivating|Grubbern|Kultiviranje|Kultiviranje|Kultiviranje|Kultivácia|Kypření|Kultywatorowanie|Cultivare|Культивація
+Középmély lazítás|Medium-depth loosening|Mitteltiefe Lockerung|Srednje duboko rastresanje|Srednje duboko rahljenje|Srednje globoko rahljanje|Stredne hlboké kyprenie|Středně hluboké kypření|Głęboszowanie średnie|Afânare la adâncime medie|Розпушування середньої глибини
+Mélylazítás|Subsoiling|Tiefenlockerung|Podrivanje|Podrivanje|Podrahljanje|Hĺbkové kyprenie|Hloubkové kypření|Głęboszowanie|Scarificare|Глибоке розпушування
+Magágykészítés|Seedbed preparation|Saatbettbereitung|Priprema setvenog sloja|Priprema sjetvenog sloja|Priprava setvenice|Príprava sejbového lôžka|Příprava seťového lůžka|Przygotowanie łoża siewnego|Pregătirea patului germinativ|Передпосівний обробіток
+Hengerezés|Rolling|Walzen|Valjanje|Valjanje|Valjanje|Valcovanie|Válení|Wałowanie|Tăvălugire|Коткування
+Sorközművelés|Inter-row cultivation|Hacken|Međuredna kultivacija|Međuredna kultivacija|Medvrstna obdelava|Medziriadková kultivácia|Meziřádková kultivace|Pielęgnacja międzyrzędowa|Prașilă mecanică|Міжрядний обробіток
+Direktvetés (nincs művelés)|Direct drilling (no tillage)|Direktsaat (keine Bearbeitung)|Direktna setva (bez obrade)|Izravna sjetva (bez obrade)|Neposredna setev (brez obdelave)|Priama sejba (bez spracovania)|Přímé setí (bez zpracování)|Siew bezpośredni (bez uprawy)|Semănat direct (fără lucrări)|Прямий посів (без обробітку)

@@ -1,0 +1,8 @@
+# hu | en | de | sr | hr | sl | sk | cs | pl | ro | uk
+További|More|Mehr|Više|Više|Več|Viac|Více|Więcej|Mai mult|Більше
+határ módosítása, név, azonosítók|edit boundary, name, IDs|Grenze bearbeiten, Name, Kennungen|izmena granice, naziv, oznake|uređivanje granice, naziv, oznake|urejanje meje, ime, oznake|úprava hranice, názov, identifikátory|úprava hranice, název, identifikátory|edycja granicy, nazwa, identyfikatory|editare limită, nume, identificatori|зміна межі, назва, ідентифікатори
+CSV, GeoJSON, shapefile, jelentés|CSV, GeoJSON, shapefile, report|CSV, GeoJSON, Shapefile, Bericht|CSV, GeoJSON, shapefile, izveštaj|CSV, GeoJSON, shapefile, izvješće|CSV, GeoJSON, shapefile, poročilo|CSV, GeoJSON, shapefile, správa|CSV, GeoJSON, shapefile, zpráva|CSV, GeoJSON, shapefile, raport|CSV, GeoJSON, shapefile, raport|CSV, GeoJSON, shapefile, звіт
+Előző év|Previous year|Vorjahr|Prethodna godina|Prethodna godina|Prejšnje leto|Predchádzajúci rok|Předchozí rok|Poprzedni rok|Anul anterior|Попередній рік
+Következő év|Next year|Nächstes Jahr|Sledeća godina|Sljedeća godina|Naslednje leto|Nasledujúci rok|Následující rok|Następny rok|Anul următor|Наступний рік
+Térkép nagyítása|Enlarge map|Karte vergrößern|Uvećaj mapu|Povećaj kartu|Povečaj zemljevid|Zväčšiť mapu|Zvětšit mapu|Powiększ mapę|Mărește harta|Збільшити карту
+Térkép nagyítása / kicsinyítése|Enlarge / shrink map|Karte vergrößern / verkleinern|Uvećaj / smanji mapu|Povećaj / smanji kartu|Povečaj / pomanjšaj zemljevid|Zväčšiť / zmenšiť mapu|Zvětšit / zmenšit mapu|Powiększ / pomniejsz mapę|Mărește / micșorează harta|Збільшити / зменшити карту

@@ -1,0 +1,104 @@
+# hu | en | de | sr | hr | sl | sk | cs | pl | ro | uk
+Tábláim|My fields|Meine Schläge|Moje parcele|Moje parcele|Moje parcele|Moje polia|Moje pozemky|Moje pola|Parcelele mele|Мої поля
+Új tábla|New field|Neuer Schlag|Nova parcela|Nova parcela|Nova parcela|Nové pole|Nový pozemek|Nowe pole|Parcelă nouă|Нове поле
+Statisztika|Statistics|Statistik|Statistika|Statistika|Statistika|Štatistika|Statistika|Statystyki|Statistici|Статистика
+Fiók|Account|Konto|Nalog|Račun|Račun|Účet|Účet|Konto|Cont|Обліковий запис
+Profil|Profile|Profil|Profil|Profil|Profil|Profil|Profil|Profil|Profil|Профіль
+Adataim|My data|Meine Daten|Moji podaci|Moji podaci|Moji podatki|Moje údaje|Moje údaje|Moje dane|Datele mele|Мої дані
+Kijelentkezés|Log out|Abmelden|Odjava|Odjava|Odjava|Odhlásiť sa|Odhlásit se|Wyloguj|Deconectare|Вийти
+Bezár|Close|Schließen|Zatvori|Zatvori|Zapri|Zavrieť|Zavřít|Zamknij|Închide|Закрити
+Mégse|Cancel|Abbrechen|Otkaži|Odustani|Prekliči|Zrušiť|Zrušit|Anuluj|Anulează|Скасувати
+Mentés|Save|Speichern|Sačuvaj|Spremi|Shrani|Uložiť|Uložit|Zapisz|Salvează|Зберегти
+Kész|Done|Fertig|Gotovo|Gotovo|Končano|Hotovo|Hotovo|Gotowe|Gata|Готово
+Frissítés|Refresh|Aktualisieren|Osveži|Osvježi|Osveži|Obnoviť|Obnovit|Odśwież|Actualizează|Оновити
+frissítés|refresh|aktualisieren|osveži|osvježi|osveži|obnoviť|obnovit|odśwież|actualizează|оновити
+Továbbiak|More|Weitere|Više|Više|Več|Viac|Více|Więcej|Mai mult|Більше
+Export|Export|Export|Izvoz|Izvoz|Izvoz|Export|Export|Eksport|Export|Експорт
+Határ|Boundary|Grenze|Granica|Granica|Meja|Hranica|Hranice|Granica|Limită|Межа
+Évek|Seasons|Jahre|Godine|Godine|Leta|Roky|Roky|Lata|Ani|Роки
+Év|Year|Jahr|Godina|Godina|Leto|Rok|Rok|Rok|An|Рік
+Elemzés|Analysis|Analyse|Analiza|Analiza|Analiza|Analýza|Analýza|Analiza|Analiză|Аналіз
+Műhold|Satellite|Satellit|Satelit|Satelit|Satelit|Satelit|Satelit|Satelita|Satelit|Супутник
+Időjárás|Weather|Wetter|Vreme|Vrijeme|Vreme|Počasie|Počasí|Pogoda|Vreme|Погода
+Talaj|Soil|Boden|Zemljište|Tlo|Tla|Pôda|Půda|Gleba|Sol|Ґрунт
+Összegzés|Summary|Übersicht|Rezime|Sažetak|Povzetek|Súhrn|Souhrn|Podsumowanie|Rezumat|Підсумок
+Egyszerű|Simple|Einfach|Jednostavno|Jednostavno|Preprosto|Jednoduché|Jednoduché|Prosty|Simplu|Простий
+Részletes|Detailed|Detailliert|Detaljno|Detaljno|Podrobno|Podrobné|Podrobné|Szczegółowy|Detaliat|Детальний
+Térkép|Map|Karte|Mapa|Karta|Zemljevid|Mapa|Mapa|Mapa|Hartă|Карта
+Műholdkép|Satellite image|Satellitenbild|Satelitski snimak|Satelitska snimka|Satelitski posnetek|Satelitná snímka|Satelitní snímek|Zdjęcie satelitarne|Imagine satelitară|Супутниковий знімок
+Nézet|View|Ansicht|Prikaz|Prikaz|Pogled|Zobrazenie|Zobrazení|Widok|Vizualizare|Вигляд
+Nézet: csak határ|View: boundary only|Ansicht: nur Grenze|Prikaz: samo granica|Prikaz: samo granica|Pogled: samo meja|Zobrazenie: len hranica|Zobrazení: jen hranice|Widok: tylko granica|Vizualizare: doar limita|Вигляд: лише межа
+Keresés: kód, név, település, hibrid, év…|Search: code, name, place, hybrid, year…|Suche: Code, Name, Ort, Sorte, Jahr…|Pretraga: šifra, naziv, mesto, hibrid, godina…|Pretraga: šifra, naziv, mjesto, hibrid, godina…|Iskanje: koda, ime, kraj, hibrid, leto…|Hľadať: kód, názov, obec, hybrid, rok…|Hledat: kód, název, obec, hybrid, rok…|Szukaj: kod, nazwa, miejscowość, mieszaniec, rok…|Căutare: cod, nume, localitate, hibrid, an…|Пошук: код, назва, населений пункт, гібрид, рік…
+Még nincs tábla.|No fields yet.|Noch keine Schläge.|Još nema parcela.|Još nema parcela.|Še ni parcel.|Zatiaľ žiadne polia.|Zatím žádné pozemky.|Brak pól.|Încă nu există parcele.|Полів ще немає.
+Táblatörténet|Field History|Schlaghistorie|Istorija parcele|Povijest parcele|Zgodovina parcele|História poľa|Historie pozemku|Historia pola|Istoricul parcelei|Історія поля
+Rajzolás|Draw|Zeichnen|Crtanje|Crtanje|Risanje|Kreslenie|Kreslení|Rysuj|Desenare|Малювати
+Fájlból|From file|Aus Datei|Iz fajla|Iz datoteke|Iz datoteke|Zo súboru|Ze souboru|Z pliku|Din fișier|З файлу
+Határjavaslat|Boundary suggestion|Grenzvorschlag|Predlog granice|Prijedlog granice|Predlog meje|Návrh hranice|Návrh hranice|Propozycja granicy|Propunere limită|Пропозиція межі
+Hogyan adja meg a tábla határát?|How would you like to set the field boundary?|Wie möchten Sie die Schlaggrenze festlegen?|Kako želite da unesete granicu parcele?|Kako želite unijeti granicu parcele?|Kako želite vnesti mejo parcele?|Ako chcete zadať hranicu poľa?|Jak chcete zadat hranici pozemku?|Jak chcesz wyznaczyć granicę pola?|Cum doriți să stabiliți limita parcelei?|Як ви хочете задати межу поля?
+koppintson a sarokpontokra|tap the corner points|tippen Sie auf die Eckpunkte|dodirnite tačke uglova|dodirnite kutne točke|tapnite oglišča|ťuknite na rohové body|klepněte na rohové body|dotknij narożników|atingeți colțurile|торкніться кутових точок
+koppintson a tábla közepére, a program megrajzolja|tap the middle of the field, the app draws it|tippen Sie in die Schlagmitte, die App zeichnet sie|dodirnite sredinu parcele, program je iscrtava|dodirnite sredinu parcele, program je iscrtava|tapnite sredino parcele, program jo nariše|ťuknite do stredu poľa, aplikácia ho nakreslí|klepněte doprostřed pozemku, aplikace jej zakreslí|dotknij środka pola, aplikacja je narysuje|atingeți mijlocul parcelei, aplicația o desenează|торкніться середини поля, програма його намалює
+GeoJSON, KML vagy korábbi mentés|GeoJSON, KML or earlier backup|GeoJSON, KML oder frühere Sicherung|GeoJSON, KML ili ranija rezervna kopija|GeoJSON, KML ili ranija sigurnosna kopija|GeoJSON, KML ali prejšnja varnostna kopija|GeoJSON, KML alebo staršia záloha|GeoJSON, KML nebo dřívější záloha|GeoJSON, KML lub wcześniejsza kopia|GeoJSON, KML sau o copie anterioară|GeoJSON, KML або попередня копія
+Határ módosítása|Edit boundary|Grenze bearbeiten|Izmena granice|Izmjena granice|Urejanje meje|Upraviť hranicu|Upravit hranici|Edytuj granicę|Modificare limită|Змінити межу
+pontok húzása, új pont, törlés|drag points, add point, delete|Punkte ziehen, hinzufügen, löschen|pomeranje tačaka, nova tačka, brisanje|pomicanje točaka, nova točka, brisanje|premik točk, nova točka, brisanje|posun bodov, nový bod, mazanie|posun bodů, nový bod, mazání|przesuń punkty, dodaj, usuń|mutare puncte, punct nou, ștergere|переміщення точок, нова точка, видалення
+Név, hrsz, település|Name, parcel no., place|Name, Flurstück, Ort|Naziv, br. parcele, mesto|Naziv, kat. čestica, mjesto|Ime, parc. št., kraj|Názov, parcela, obec|Název, parcela, obec|Nazwa, nr działki, miejscowość|Nume, nr. cadastral, localitate|Назва, кадастр. №, населений пункт
+adatok szerkesztése|edit details|Daten bearbeiten|izmena podataka|uređivanje podataka|urejanje podatkov|upraviť údaje|upravit údaje|edytuj dane|editare date|редагувати дані
+Táblakód|Field code|Schlagcode|Šifra parcele|Šifra parcele|Koda parcele|Kód poľa|Kód pozemku|Kod pola|Cod parcelă|Код поля
+Saját név|Own name|Eigener Name|Sopstveni naziv|Vlastiti naziv|Lastno ime|Vlastný názov|Vlastní název|Własna nazwa|Nume propriu|Власна назва
+Település|Settlement|Ort|Mesto|Mjesto|Kraj|Obec|Obec|Miejscowość|Localitate|Населений пункт
+település|settlements|Orte|mesta|mjesta|krajev|obcí|obcí|miejscowości|localități|населених пунктів
+Helyrajzi szám|Parcel number|Flurstücksnummer|Broj katastarske parcele|Broj katastarske čestice|Parcelna številka|Parcelné číslo|Parcelní číslo|Numer działki|Număr cadastral|Кадастровий номер
+Terület|Area|Fläche|Površina|Površina|Površina|Výmera|Výměra|Powierzchnia|Suprafață|Площа
+Határ forrása|Boundary source|Grenzquelle|Izvor granice|Izvor granice|Vir meje|Zdroj hranice|Zdroj hranice|Źródło granicy|Sursa limitei|Джерело межі
+kézi rajz / import|hand-drawn / import|von Hand / Import|ručno / uvoz|ručno / uvoz|ročno / uvoz|ručne / import|ručně / import|ręcznie / import|manual / import|вручну / імпорт
+Veszélyes műveletek|Danger zone|Gefahrenbereich|Opasne radnje|Opasne radnje|Nevarna dejanja|Nebezpečné akcie|Nebezpečné akce|Strefa zagrożenia|Acțiuni periculoase|Небезпечні дії
+Tábla törlése|Delete field|Schlag löschen|Obriši parcelu|Obriši parcelu|Izbriši parcelo|Zmazať pole|Smazat pozemek|Usuń pole|Șterge parcela|Видалити поле
+– (mentéskor kapja)|– (assigned on save)|– (wird beim Speichern vergeben)|– (dodeljuje se pri čuvanju)|– (dodjeljuje se pri spremanju)|– (dodeli se ob shranjevanju)|– (pridelí sa pri uložení)|– (přidělí se při uložení)|– (nadawany przy zapisie)|– (se atribuie la salvare)|– (присвоюється при збереженні)
+Jelentkezzen be. Minden termelő csak a saját tábláit látja.|Please log in. Every grower sees only their own fields.|Bitte melden Sie sich an. Jeder Landwirt sieht nur seine eigenen Schläge.|Prijavite se. Svaki proizvođač vidi samo svoje parcele.|Prijavite se. Svaki proizvođač vidi samo svoje parcele.|Prijavite se. Vsak pridelovalec vidi samo svoje parcele.|Prihláste sa. Každý pestovateľ vidí len svoje polia.|Přihlaste se. Každý pěstitel vidí jen své pozemky.|Zaloguj się. Każdy rolnik widzi tylko swoje pola.|Autentificați-vă. Fiecare fermier își vede doar propriile parcele.|Увійдіть. Кожен виробник бачить лише свої поля.
+Belépés|Log in|Anmelden|Prijava|Prijava|Prijava|Prihlásenie|Přihlášení|Logowanie|Autentificare|Вхід
+Bejelentkezés|Log in|Anmeldung|Prijava|Prijava|Prijava|Prihlásenie|Přihlášení|Zaloguj|Autentificare|Увійти
+Regisztráció|Sign up|Registrieren|Registracija|Registracija|Registracija|Registrácia|Registrace|Rejestracja|Înregistrare|Реєстрація
+Név|Name|Name|Ime|Ime|Ime|Meno|Jméno|Imię i nazwisko|Nume|Ім'я
+Gazdaság neve (nem kötelező)|Farm name (optional)|Betriebsname (optional)|Naziv gazdinstva (nije obavezno)|Naziv gospodarstva (nije obavezno)|Ime kmetije (ni obvezno)|Názov farmy (nepovinné)|Název farmy (nepovinné)|Nazwa gospodarstwa (opcjonalnie)|Numele fermei (opțional)|Назва господарства (необов'язково)
+Gazdaság neve|Farm name|Betriebsname|Naziv gazdinstva|Naziv gospodarstva|Ime kmetije|Názov farmy|Název farmy|Nazwa gospodarstwa|Numele fermei|Назва господарства
+E-mail-cím|Email address|E-Mail-Adresse|E-adresa|E-adresa|E-poštni naslov|E-mailová adresa|E-mailová adresa|Adres e-mail|Adresă de e-mail|Електронна пошта
+Jelszó|Password|Passwort|Lozinka|Lozinka|Geslo|Heslo|Heslo|Hasło|Parolă|Пароль
+Elfelejtett jelszó|Forgot password|Passwort vergessen|Zaboravljena lozinka|Zaboravljena lozinka|Pozabljeno geslo|Zabudnuté heslo|Zapomenuté heslo|Nie pamiętam hasła|Parolă uitată|Забули пароль
+Folytatás bejelentkezés nélkül|Continue without logging in|Ohne Anmeldung fortfahren|Nastavi bez prijave|Nastavi bez prijave|Nadaljuj brez prijave|Pokračovať bez prihlásenia|Pokračovat bez přihlášení|Kontynuuj bez logowania|Continuați fără autentificare|Продовжити без входу
+Elfogadom|I accept|Ich stimme zu|Prihvatam|Prihvaćam|Sprejmem|Súhlasím|Souhlasím|Akceptuję|Accept|Приймаю
+Nem fogadom el|I do not accept|Ich lehne ab|Ne prihvatam|Ne prihvaćam|Ne sprejmem|Nesúhlasím|Nesouhlasím|Nie akceptuję|Nu accept|Не приймаю
+Elolvastam és elfogadom az|I have read and accept the|Ich habe gelesen und akzeptiere die|Pročitao/la sam i prihvatam|Pročitao/la sam i prihvaćam|Prebral/a sem in sprejemam|Prečítal/a som a súhlasím s|Přečetl/a jsem a souhlasím s|Przeczytałem/am i akceptuję|Am citit și accept|Я прочитав(ла) і приймаю
+adatkezelési tájékoztatót|privacy notice|Datenschutzerklärung|obaveštenje o zaštiti podataka|obavijest o zaštiti podataka|obvestilo o varstvu podatkov|informácie o ochrane údajov|informace o ochraně údajů|informację o ochronie danych|nota de informare privind datele|повідомлення про захист даних
+Adatkezelés|Privacy|Datenschutz|Zaštita podataka|Zaštita podataka|Varstvo podatkov|Ochrana údajov|Ochrana údajů|Ochrona danych|Protecția datelor|Захист даних
+Adatkezelési tájékoztató|Privacy notice|Datenschutzerklärung|Obaveštenje o zaštiti podataka|Obavijest o zaštiti podataka|Obvestilo o varstvu podatkov|Informácie o ochrane údajov|Informace o ochraně údajů|Informacja o ochronie danych|Notă de informare privind datele|Повідомлення про захист даних
+Hozzájárulok, hogy adataim anonimizálva kutatási célra (doktori kutatás, Debreceni Egyetem) is felhasználhatók legyenek.|I agree that my data may also be used anonymously for research (doctoral research, University of Debrecen).|Ich stimme zu, dass meine Daten anonymisiert auch für Forschungszwecke (Doktorarbeit, Universität Debrecen) verwendet werden.|Saglasan/na sam da se moji podaci anonimizovano koriste i u istraživačke svrhe (doktorsko istraživanje, Univerzitet u Debrecinu).|Suglasan/na sam da se moji podaci anonimizirano koriste i u istraživačke svrhe (doktorsko istraživanje, Sveučilište u Debrecenu).|Soglašam, da se moji podatki anonimizirano uporabijo tudi za raziskave (doktorska raziskava, Univerza v Debrecenu).|Súhlasím, aby moje údaje boli anonymizovane použité aj na výskum (doktorandský výskum, Univerzita v Debrecíne).|Souhlasím, aby mé údaje byly anonymizovaně použity i pro výzkum (doktorský výzkum, Univerzita v Debrecínu).|Wyrażam zgodę na anonimowe wykorzystanie moich danych również do badań (badania doktoranckie, Uniwersytet w Debreczynie).|Sunt de acord ca datele mele să fie folosite anonimizat și în scop de cercetare (cercetare doctorală, Universitatea din Debrețin).|Я погоджуюся, щоб мої дані анонімно використовувалися також для досліджень (докторське дослідження, Дебреценський університет).
+Telefon|Phone|Telefon|Telefon|Telefon|Telefon|Telefón|Telefon|Telefon|Telefon|Телефон
+Fiók törlése|Delete account|Konto löschen|Brisanje naloga|Brisanje računa|Izbris računa|Zmazať účet|Smazat účet|Usuń konto|Ștergere cont|Видалити обліковий запис
+Végleges törlés|Delete permanently|Endgültig löschen|Trajno brisanje|Trajno brisanje|Trajni izbris|Natrvalo zmazať|Trvale smazat|Usuń na stałe|Ștergere definitivă|Видалити назавжди
+adatok letöltése a szerverről|download data from the server|Daten vom Server laden|preuzimanje podataka sa servera|preuzimanje podataka s poslužitelja|prenos podatkov s strežnika|stiahnuť údaje zo servera|stáhnout data ze serveru|pobierz dane z serwera|descarcă datele de pe server|завантажити дані з сервера
+letöltés, hozzájárulás, fióktörlés|download, consent, account deletion|Download, Einwilligung, Kontolöschung|preuzimanje, saglasnost, brisanje naloga|preuzimanje, privola, brisanje računa|prenos, privolitev, izbris računa|stiahnutie, súhlas, zmazanie účtu|stažení, souhlas, smazání účtu|pobieranie, zgoda, usunięcie konta|descărcare, consimțământ, ștergere cont|завантаження, згода, видалення облікового запису
+név, gazdaság, telefon|name, farm, phone|Name, Betrieb, Telefon|ime, gazdinstvo, telefon|ime, gospodarstvo, telefon|ime, kmetija, telefon|meno, farma, telefón|jméno, farma, telefon|imię, gospodarstwo, telefon|nume, fermă, telefon|ім'я, господарство, телефон
+Nincs bejelentkezve – az adatok csak ezen az eszközön vannak.|Not logged in – data is stored on this device only.|Nicht angemeldet – Daten nur auf diesem Gerät.|Niste prijavljeni – podaci su samo na ovom uređaju.|Niste prijavljeni – podaci su samo na ovom uređaju.|Niste prijavljeni – podatki so samo na tej napravi.|Nie ste prihlásený – údaje sú len v tomto zariadení.|Nejste přihlášeni – data jsou jen v tomto zařízení.|Nie zalogowano – dane są tylko na tym urządzeniu.|Neautentificat – datele sunt doar pe acest dispozitiv.|Ви не увійшли – дані лише на цьому пристрої.
+minden mentve|all saved|alles gespeichert|sve sačuvano|sve spremljeno|vse shranjeno|všetko uložené|vše uloženo|wszystko zapisane|totul salvat|усе збережено
+{#} tábla mentésre vár|{#} field(s) waiting to be saved|{#} Schlag/Schläge warten auf Speicherung|{#} parcela čeka na čuvanje|{#} parcela čeka na spremanje|{#} parcel čaka na shranjevanje|{#} pole čaká na uloženie|{#} pozemek čeká na uložení|{#} pole czeka na zapis|{#} parcelă așteaptă salvarea|{#} поле очікує збереження
+Összes adatom letöltése (JSON)|Download all my data (JSON)|Alle meine Daten herunterladen (JSON)|Preuzmi sve moje podatke (JSON)|Preuzmi sve moje podatke (JSON)|Prenesi vse moje podatke (JSON)|Stiahnuť všetky moje údaje (JSON)|Stáhnout všechna má data (JSON)|Pobierz wszystkie moje dane (JSON)|Descarcă toate datele mele (JSON)|Завантажити всі мої дані (JSON)
+Frissítés a szerverről|Refresh from server|Vom Server aktualisieren|Osveži sa servera|Osvježi s poslužitelja|Osveži s strežnika|Obnoviť zo servera|Obnovit ze serveru|Odśwież z serwera|Actualizează de pe server|Оновити з сервера
+Teljes mentés (JSON)|Full backup (JSON)|Vollständige Sicherung (JSON)|Potpuna rezervna kopija (JSON)|Potpuna sigurnosna kopija (JSON)|Celotna varnostna kopija (JSON)|Úplná záloha (JSON)|Úplná záloha (JSON)|Pełna kopia (JSON)|Copie completă (JSON)|Повна резервна копія (JSON)
+Import (JSON, GeoJSON, KML)|Import (JSON, GeoJSON, KML)|Import (JSON, GeoJSON, KML)|Uvoz (JSON, GeoJSON, KML)|Uvoz (JSON, GeoJSON, KML)|Uvoz (JSON, GeoJSON, KML)|Import (JSON, GeoJSON, KML)|Import (JSON, GeoJSON, KML)|Import (JSON, GeoJSON, KML)|Import (JSON, GeoJSON, KML)|Імпорт (JSON, GeoJSON, KML)
+CSV – műveletek|CSV – operations|CSV – Maßnahmen|CSV – radnje|CSV – radnje|CSV – opravila|CSV – operácie|CSV – operace|CSV – zabiegi|CSV – lucrări|CSV – операції
+CSV – évek|CSV – seasons|CSV – Jahre|CSV – godine|CSV – godine|CSV – leta|CSV – roky|CSV – roky|CSV – lata|CSV – ani|CSV – роки
+Export csomag (ZIP + shapefile)|Export package (ZIP + shapefile)|Exportpaket (ZIP + Shapefile)|Paket za izvoz (ZIP + shapefile)|Paket za izvoz (ZIP + shapefile)|Izvozni paket (ZIP + shapefile)|Exportný balík (ZIP + shapefile)|Exportní balík (ZIP + shapefile)|Pakiet eksportu (ZIP + shapefile)|Pachet export (ZIP + shapefile)|Пакет експорту (ZIP + shapefile)
+Letöltés|Download|Herunterladen|Preuzmi|Preuzmi|Prenesi|Stiahnuť|Stáhnout|Pobierz|Descarcă|Завантажити
+Táblajelentés|Field report|Schlagbericht|Izveštaj o parceli|Izvješće o parceli|Poročilo o parceli|Správa o poli|Zpráva o pozemku|Raport pola|Raport parcelă|Звіт поля
+nyomtatható összefoglaló|printable summary|druckbare Übersicht|rezime za štampu|sažetak za ispis|povzetek za tisk|súhrn na tlač|souhrn k tisku|podsumowanie do druku|rezumat imprimabil|підсумок для друку
+Kijuttatási térkép|Application map|Ausbringkarte|Mapa aplikacije|Karta aplikacije|Karta aplikacije|Aplikačná mapa|Aplikační mapa|Mapa aplikacji|Hartă de aplicare|Карта внесення
+zónánkénti dózis, shapefile|dose by zone, shapefile|Dosis je Zone, Shapefile|doza po zonama, shapefile|doza po zonama, shapefile|odmerek po conah, shapefile|dávka podľa zón, shapefile|dávka podle zón, shapefile|dawka wg stref, shapefile|doză pe zone, shapefile|доза за зонами, shapefile
+Excel-sablon|Excel template|Excel-Vorlage|Excel šablon|Excel predložak|Excel predloga|Excel šablóna|Excel šablona|Szablon Excel|Șablon Excel|Шаблон Excel
+Excel-sablon letöltése|Download Excel template|Excel-Vorlage herunterladen|Preuzmi Excel šablon|Preuzmi Excel predložak|Prenesi Excel predlogo|Stiahnuť Excel šablónu|Stáhnout Excel šablonu|Pobierz szablon Excel|Descarcă șablonul Excel|Завантажити шаблон Excel
+Excel betöltése|Load Excel|Excel laden|Učitaj Excel|Učitaj Excel|Naloži Excel|Načítať Excel|Načíst Excel|Wczytaj Excel|Încarcă Excel|Завантажити Excel
+Excel-sablon kitöltéshez|Excel template for filling in|Excel-Vorlage zum Ausfüllen|Excel šablon za popunjavanje|Excel predložak za popunjavanje|Excel predloga za izpolnjevanje|Excel šablóna na vyplnenie|Excel šablona k vyplnění|Szablon Excel do wypełnienia|Șablon Excel pentru completare|Шаблон Excel для заповнення
+kitöltés táblázatban, majd visszatöltés|fill in a spreadsheet, then load it back|in Tabelle ausfüllen, dann zurückladen|popunite u tabeli, pa učitajte nazad|popunite u tablici, pa učitajte natrag|izpolnite v tabeli, nato naložite nazaj|vyplňte v tabuľke a načítajte späť|vyplňte v tabulce a načtěte zpět|wypełnij w arkuszu i wczytaj z powrotem|completați în tabel, apoi reîncărcați|заповніть у таблиці й завантажте назад
+Excel-táblázat a táblákkal – kitöltés után visszatölthető|Spreadsheet with your fields – can be loaded back after filling in|Tabelle mit Ihren Schlägen – nach dem Ausfüllen wieder ladbar|Tabela sa parcelama – posle popunjavanja može se učitati|Tablica s parcelama – nakon popunjavanja može se učitati|Tabela s parcelami – po izpolnitvi jo lahko naložite|Tabuľka s poľami – po vyplnení ju možno načítať|Tabulka s pozemky – po vyplnění ji lze načíst|Arkusz z polami – po wypełnieniu można go wczytać|Tabel cu parcelele – după completare poate fi reîncărcat|Таблиця з полями – після заповнення можна завантажити
+A kitöltött sablon visszatöltése|Load the completed template|Ausgefüllte Vorlage laden|Učitaj popunjeni šablon|Učitaj popunjeni predložak|Naloži izpolnjeno predlogo|Načítať vyplnenú šablónu|Načíst vyplněnou šablonu|Wczytaj wypełniony szablon|Încărcați șablonul completat|Завантажити заповнений шаблон
+Évektől|From year|Ab Jahr|Od godine|Od godine|Od leta|Od roku|Od roku|Od roku|Din anul|З року
+Évig|To year|Bis Jahr|Do godine|Do godine|Do leta|Do roku|Do roku|Do roku|Până în anul|До року
+Nyelv|Language|Sprache|Jezik|Jezik|Jezik|Jazyk|Jazyk|Język|Limbă|Мова

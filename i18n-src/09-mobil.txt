@@ -1,0 +1,16 @@
+# hu | en | de | sr | hr | sl | sk | cs | pl | ro | uk
+Legközelebbi tábla · {*}|Nearest field · {*}|Nächster Schlag · {*}|Najbliža parcela · {*}|Najbliža parcela · {*}|Najbližja parcela · {*}|Najbližšie pole · {*}|Nejbližší pozemek · {*}|Najbliższe pole · {*}|Cea mai apropiată parcelă · {*}|Найближче поле · {*}
+Legközelebbi a térkép közepéhez · {*}|Nearest to map centre · {*}|Nächster zur Kartenmitte · {*}|Najbliža centru mape · {*}|Najbliža središtu karte · {*}|Najbližja središču zemljevida · {*}|Najbližšie k stredu mapy · {*}|Nejbližší ke středu mapy · {*}|Najbliższe środka mapy · {*}|Cea mai apropiată de centrul hărții · {*}|Найближче до центру карти · {*}
+Tábla megnyitása|Open field|Schlag öffnen|Otvori parcelu|Otvori parcelu|Odpri parcelo|Otvoriť pole|Otevřít pozemek|Otwórz pole|Deschide parcela|Відкрити поле
+Mind|All|Alle|Sve|Sve|Vse|Všetky|Vše|Wszystkie|Toate|Усі
+Teendő van|To do|Offen|Za uraditi|Za napraviti|Za urediti|Treba doplniť|K doplnění|Do uzupełnienia|De făcut|Потрібна дія
+hiányzik: növény|missing: crop|fehlt: Kultur|nedostaje: kultura|nedostaje: kultura|manjka: posevek|chýba: plodina|chybí: plodina|brak: uprawa|lipsește: cultura|бракує: культура
+hiányzik: vetés|missing: sowing|fehlt: Aussaat|nedostaje: setva|nedostaje: sjetva|manjka: setev|chýba: sejba|chybí: setí|brak: siew|lipsește: semănatul|бракує: сівба
+hiányzik: hozam|missing: yield|fehlt: Ertrag|nedostaje: prinos|nedostaje: prinos|manjka: pridelek|chýba: úroda|chybí: výnos|brak: plon|lipsește: producția|бракує: урожай
+Keresés|Search|Suche|Pretraga|Pretraga|Iskanje|Hľadať|Hledat|Szukaj|Căutare|Пошук
+Fő menü|Main menu|Hauptmenü|Glavni meni|Glavni izbornik|Glavni meni|Hlavné menu|Hlavní nabídka|Menu główne|Meniu principal|Головне меню
+Nincs bejelentkezve|Not logged in|Nicht angemeldet|Niste prijavljeni|Niste prijavljeni|Niste prijavljeni|Nie ste prihlásený|Nejste přihlášeni|Nie zalogowano|Neautentificat|Ви не увійшли
+Minta tábla|Sample field|Beispielschlag|Primer parcele|Primjer parcele|Vzorčna parcela|Vzorové pole|Vzorový pozemek|Przykładowe pole|Parcelă exemplu|Приклад поля
+Termőzónák|Yield zones|Ertragszonen|Zone prinosa|Zone prinosa|Cone pridelka|Výnosové zóny|Výnosové zóny|Strefy plonowania|Zone de producție|Зони врожайності
+homogén|uniform|homogen|homogena|homogena|homogena|homogénne|homogenní|jednorodne|omogen|однорідне
+{#}% eltérés|{#}% difference|{#} % Abweichung|{#}% razlike|{#}% razlike|{#} % razlike|{#} % rozdiel|{#} % rozdíl|{#}% różnicy|{#}% diferență|{#}% різниці

@@ -1,0 +1,3 @@
+# hu | en | de | sr | hr | sl | sk | cs | pl | ro | uk
+Településnevek és határok|Place names and boundaries|Ortsnamen und Grenzen|Nazivi naselja i granice|Nazivi naselja i granice|Imena naselij in meje|Názvy obcí a hranice|Názvy obcí a hranice|Nazwy miejscowości i granice|Nume de localități și granițe|Назви населених пунктів і межі
+Településnevek, utak és határok|Place names, roads and boundaries|Ortsnamen, Straßen und Grenzen|Nazivi naselja, putevi i granice|Nazivi naselja, ceste i granice|Imena naselij, ceste in meje|Názvy obcí, cesty a hranice|Názvy obcí, silnice a hranice|Nazwy miejscowości, drogi i granice|Nume de localități, drumuri și granițe|Назви населених пунктів, дороги і межі

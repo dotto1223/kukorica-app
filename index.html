@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="kukorica.app">
+<meta name="theme-color" content="#7a5a12">
+<link rel="apple-touch-icon" href="icon-192.png">
+<link rel="manifest" href="manifest.json">
+<title>kukorica.app</title>
+<script>try{if('/*SB_URL*/'.indexOf('http')===0&&!localStorage.getItem('tt.sb.session')&&!location.hash.includes('access_token=')&&!sessionStorage.getItem('tt.offline'))document.documentElement.classList.add('need-login');}catch(e){}</script>
+</head>
+<body>
+<div id="loginGate" style="display:none"></div>
+
+<div class="app">
+<header>
+  <button class="hbtn brand" id="hdrHome" title="Tábláim">🌽 <span data-noi18n>kukorica.app</span></button>
+  <button class="hbtn back" id="hdrBack" hidden>← Tábláim</button>
+  <div class="hdrTitle" id="hdrTitle"></div>
+  <div class="modeSw" id="modeSw" role="group" aria-label="Nézet"><button data-mode="live" title="Éles nézet: a saját táblái és a valódi termelői statisztika">Éles</button><button data-mode="demo" title="Demó nézet: kitalált adatok a program kipróbálásához">🧪 Demó</button></div>
+  <div class="modeSw viewSw" id="viewSw" role="group" aria-label="Nézet részletessége"><button data-view="simple" title="Egyszerű nézet: tábla, évek, időjárás, jelentés">Egyszerű</button><button data-view="expert" title="Szakértői nézet: műhold, termőzónák, kijuttatási térkép, hibrid-összehasonlítás">Szakértő</button></div>
+  <div class="sp"></div>
+  <select id="hdrYear" aria-label="Év" hidden></select>
+  <select id="hdrField" aria-label="Tábla" hidden></select>
+  <button class="hbtn" id="hdrStats" title="Statisztika">📊</button>
+  <button class="hbtn user" id="hdrUser" title="Fiók">👤</button>
+</header>
+
+<div id="mapWrap">
+  <div id="map"></div>
+  <div class="mtools">
+    <button class="btn sm primary shadow" id="btnAuto" hidden>🪄 Határjavaslat</button>
+    <button class="btn sm shadow" id="btnDraw" hidden>✏️ Rajzolás</button>
+    <button class="btn sm shadow" id="btnGeo" style="display:none">📐 Határ módosítása</button>
+    <button class="btn sm shadow" id="btnLocate" title="Saját helyem">📍</button>
+    <button class="btn sm shadow" id="btnLayers" title="Térkép">🗺️</button>
+    <select class="btn sm shadow" id="viewSel" style="padding-right:4px;max-width:58vw;display:none"></select>
+    <span class="btn sm shadow" id="jobPill" style="display:none;background:#fffbe8"></span>
+    <select class="btn sm shadow" id="baseSel" style="padding-right:4px">
+      <option value="esri">Műholdkép</option>
+      <option value="s2_2023">Sentinel-2 2023</option>
+      <option value="s2_2021">Sentinel-2 2021</option>
+      <option value="s2_2019">Sentinel-2 2019</option>
+      <option value="osm">Térkép</option>
+    </select>
+  </div>
+  <div class="hint" id="hint"><span class="msg" id="hintMsg"></span>
+    <button class="btn sm" id="hintUndo">↶ Vissza</button>
+    <button class="btn sm" id="hintMinus" style="display:none">－</button><button class="btn sm" id="hintPlus" style="display:none">＋</button>
+    <button class="btn sm" id="hintAlt" style="display:none"></button>
+    <button class="btn sm primary" id="hintOk">Kész</button>
+    <button class="btn sm" id="hintCancel">Mégse</button>
+  </div>
+  <div class="legendBox" id="legendBox"></div>
+</div>
+
+<aside>
+  <!-- ===== Tábláim ===== -->
+  <section class="view on" id="v-list">
+    <button class="statBanner" id="statBanner" hidden></button>
+    <div class="row" style="justify-content:space-between;align-items:center">
+      <h2 style="margin:0">Tábláim</h2>
+      <button class="btn primary" id="btnNew">＋ Új tábla</button>
+    </div>
+    <div id="fieldSearchWrap" style="display:none;margin:12px 0 4px"><input class="input" id="fieldSearch" placeholder="🔎 Keresés: név, település, hrsz, MePAR blokk, hibrid…" enterkeyhint="search"></div>
+    <div class="chipRow" id="chipRow"></div>
+    <div id="selBar"></div>
+    <div id="fieldList" style="margin-top:10px"></div>
+    <div class="statusLine" id="statusLine"></div>
+    <div class="row wrap xlrow" style="margin-top:10px;gap:8px">
+      <button class="btn sm" id="btnXlTpl" title="Excel-táblázat a táblákkal – kitöltés után visszatölthető">📊 Excel-sablon letöltése</button>
+      <label class="btn sm" title="A kitöltött sablon visszatöltése">⬆ Excel betöltése<input type="file" id="xlIn" accept=".xlsx" hidden></label>
+    </div>
+    <details class="more">
+      <summary>Továbbiak</summary>
+      <div class="row wrap" style="margin-top:8px">
+        <button class="btn sm" id="btnBackup">⬇ Teljes mentés (JSON)</button>
+        <label class="btn sm">⬆ Import (shapefile, KML, GeoJSON, mentés)<input type="file" id="fileIn" multiple hidden></label>
+        <label class="btn sm folderOnly" title="Egy teljes mappa beolvasása (pl. a kombájn vagy a John Deere export mappája)">📁 Mappa beolvasása<input type="file" id="dirIn" webkitdirectory multiple hidden></label>
+        <button class="btn sm" id="btnCsvSeasons">⬇ CSV – évek</button>
+        <button class="btn sm" id="btnCsvOps">⬇ CSV – műveletek</button>
+        <button class="btn sm adv" id="btnGeojson">⬇ GeoJSON</button>
+        <button class="btn sm adv" id="btnPkg">📦 Export csomag (ZIP + shapefile)</button>
+        <button class="btn sm" id="btnView">🎚 Szakértői nézet bekapcsolása</button>
+        <button class="btn sm ghost" id="btnDemo">🧪 Demó nézet</button>
+      </div>
+    </details>
+    <!-- régi Google Drive mentés (rejtve, Supabase mellett nem használt) -->
+    <div id="gcloudBox" style="display:none"><div id="cloudSt"></div><button id="btnCloudPull"></button><button id="btnCloud"></button></div>
+    <div id="acctBox" style="display:none"></div>
+  </section>
+
+  <!-- ===== Egy tábla ===== -->
+  <section class="view" id="v-stats"><div class="pane on" id="statsBox"></div></section>
+  <section class="view" id="v-acc"><div class="pane on" id="accBox"></div></section>
+  <section class="view" id="v-field">
+    <nav class="tabs" id="tabs">
+      <button class="tab" data-t="border">Határ</button>
+      <button class="tab" data-t="season">Évek</button>
+      <button class="tab" data-t="analysis">Elemzés</button>
+      <button class="tab" data-t="export">Export</button>
+      <button class="tab tabMore" id="tabMore" aria-label="További">⋯</button>
+    </nav>
+    <div class="yBar" id="yBar" hidden></div>
+    <div class="subtabs" id="subtabs" hidden>
+      <button data-s="sat" class="adv">🛰 Műhold</button><button data-s="weather">🌦 Időjárás</button><button data-s="soil">🟫 Talaj</button><button data-s="overview">📊 Összegzés</button><button class="simpleOnly ghostTab" id="subMore">＋ Több</button>
+    </div>
+    <section class="pane" id="p-border"><div id="borderBox"></div></section>
+    <section class="pane" id="p-season">
+      <div id="seasonBox"></div>
+    </section>
+    <section class="pane" id="p-sat"><div id="satBox"></div></section>
+    <section class="pane" id="p-weather"><div id="weatherBox"></div></section>
+    <section class="pane" id="p-soil"><div id="soilBox"></div></section>
+    <section class="pane" id="p-overview"><div id="ovBox"></div></section>
+    <section class="pane" id="p-export"><div id="exportBox">
+      <h3>Ehhez a táblához</h3>
+      <div class="bigbtns">
+        <button class="bigbtn" id="btnReport">📄<b>Táblajelentés</b><span>nyomtatható összefoglaló</span></button>
+        <button class="bigbtn" id="btnSummary">📋<b>Összefoglaló másolása</b><span>táblatörténet szövegként, elemzéshez</span></button>
+        <button class="bigbtn" id="btnXlTpl2">📊<b>Excel-sablon</b><span>kitöltés táblázatban, majd visszatöltés</span></button>
+        <button class="bigbtn adv" id="btnVra">🗺️<b>Kijuttatási térkép</b><span>zónánkénti dózis, shapefile</span></button>
+      </div>
+      <p class="help" style="margin-top:14px">Az összes tábla exportja (CSV, GeoJSON, shapefile ZIP) a <b>Tábláim</b> oldalon, a „Továbbiak” alatt van.</p>
+    </div></section>
+  </section>
+</aside>
+</div>
+<div class="modal" id="modal"><div class="dlg" id="dlg"></div></div>
+<div class="toast" id="toast"></div>
+<script type="module" src="/src/main.js"></script>
+</body>
+</html>

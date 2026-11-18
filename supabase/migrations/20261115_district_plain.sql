@@ -1,0 +1,1 @@
+-- get_stats: a járás/körzet nevét a kliens teljes alakban tárolja (pl. „Kalocsai járás”, „Južnobački okrug”), a függvény már nem fűz hozzá utótagot.

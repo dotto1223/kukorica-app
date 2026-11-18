@@ -1,0 +1,3 @@
+-- Hibrid/fajta névkatalógus + admin felülvizsgálat.
+-- Élesben alkalmazva: hybrid_catalog tábla, hybrid_names(), admin_approve_hybrid(), admin_rename_hybrid().
+-- Teljes szöveg: select pg_get_functiondef(oid) from pg_proc where proname in ('hybrid_names','admin_approve_hybrid','admin_rename_hybrid');
